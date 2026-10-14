@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-renault-0139.JPG
+Ruta del archivo: C:\IA_Gpo3H\VA_0139\p1-act-0139\img-original-0139\img-renault-0139.JPG
+Formato por extension: .JPG
+Tamano en bytes: 306307
+Tamano en KB: 299.13
+Tamano en MB: 0.2921
+
+DIMENSIONES
+-----------
+Ancho: 1280 pixeles
+Alto: 946 pixeles
+Resolucion: 1280 x 946
+Total de pixeles: 1,210,880
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 124.19
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 123.18
+Verde (G): 125.65
+Rojo (R): 123.73
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
